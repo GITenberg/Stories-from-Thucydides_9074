@@ -1,0 +1,35 @@
+_repo: Stories-from-Thucydides_9074
+_version: 0.0.1
+contributor:
+  adapter:
+    agent_name: Havell, H. L. (Herbert Lord)
+    alias: Havell, Herbert Lord
+    deathdate: 1913
+    gutenberg_agent_id: '2966'
+    url: http://www.gutenberg.org/2009/agents/2966
+creator:
+  author:
+    agent_name: Thucydides
+    aliases:
+    - Θουκιδίδης
+    - Θουκυδίδης
+    birthdate: -460
+    deathdate: -395
+    gutenberg_agent_id: '2352'
+    url: http://www.gutenberg.org/2009/agents/2352
+    wikipedia: http://en.wikipedia.org/wiki/Thucydides
+description: ''
+gutenberg_issued: '2005-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9074'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Greece -- History -- Peloponnesian War, 431-404 B.C. -- Fiction'
+- GITenberg
+title: Stories from Thucydides
+url: http://www.gutenberg.org/ebooks/9074
